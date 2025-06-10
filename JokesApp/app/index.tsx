@@ -226,6 +226,6 @@ const styles = StyleSheet.create({
   company: {
     fontSize: 18,
     color: "#686868",
-    marginTop: 20,
+    marginTop: 10,
   },
 });
